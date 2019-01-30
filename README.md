@@ -1,3 +1,6 @@
+
+# i18next-react-app-examples
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
